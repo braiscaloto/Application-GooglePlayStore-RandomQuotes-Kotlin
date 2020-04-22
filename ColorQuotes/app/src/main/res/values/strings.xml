@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColorQuotes</string>
+    <string name="siguiente_cita"><![CDATA[-> SIGUIENTE CITA <-]]></string>
+    <string name="marie_curie">Marie Curie</string>
+    <string name="nada_en_la_vida_debe_ser_temido_solamente_debe_ser_comprendido_ahora_es_el_momento_de_comprender_m_s_para_poder_temer_menos">“Nada en la vida debe ser temido, solamente debe ser comprendido. Ahora es el momento de comprender más, para poder temer menos”</string>
+    <string name="siguiente_cita4">SIGUIENTE CITA ✍</string>
+</resources>
