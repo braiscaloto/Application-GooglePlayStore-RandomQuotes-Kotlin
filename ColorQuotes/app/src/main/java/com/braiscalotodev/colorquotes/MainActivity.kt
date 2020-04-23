@@ -7,7 +7,6 @@ import android.os.PersistableBundle
 import android.view.View
 import kotlinx.android.synthetic.main.activity_main.*
 
-//Icons made by Freepick from www.flaticon.com
 class MainActivity : AppCompatActivity() {
 
     private var quoteAuthor: String? = null
