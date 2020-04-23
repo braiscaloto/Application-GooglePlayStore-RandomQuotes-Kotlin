@@ -6,3 +6,4 @@ This application generates a random famous quote and a random background color w
 ![github-small](https://github.com/braiscaloto/Application-GooglePlayStore-RandomQuotes-Kotlin/blob/master/Images%20App/example3.png)
 ![github-small](https://github.com/braiscaloto/Application-GooglePlayStore-RandomQuotes-Kotlin/blob/master/Images%20App/example4.png)
 
+//Icons made by Freepick from www.flaticon.com //
